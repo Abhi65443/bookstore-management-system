@@ -1,4 +1,17 @@
-/target/
+# Maven / Java build folder
+target/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
 
 # Compiled class file
 *.class
